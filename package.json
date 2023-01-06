@@ -1,6 +1,6 @@
 {
   "name": "@timglenn123/single-spa-layout-cv-fork",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Layout engine for single-spa applications that fixes parse5 type definition",
   "main": "dist/umd/single-spa-layout.min.cjs",
   "module": "dist/esm/single-spa-layout.min.js",
